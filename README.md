@@ -44,10 +44,6 @@ jupyter notebook MUFG_hackathon.ipynb
 ```
 
 ### 3️⃣ View the Knowledge Graph
-- Open `mufg_graph_sample200.html` in your browser to explore the graph.
-- Or view it live here: **[Interactive Knowledge Graph on GitHub Pages](https://yourusername.github.io/mufg-insurance-graph/mufg_graph_sample200.html)**
-
----
 
 ## 🎥 Demo Video
 - [Watch the Demo Video](https://drive.google.com/file/d/1LgUBeCdnRCZAoVZzL3m02vk7FoZLDrkN/view?usp=drive_link) 
@@ -97,7 +93,7 @@ This project is released under the MIT License.
 ---
 
 ## 👤 Author
-**Your Name**  
+**Atharv Kulkarni**  
 [https://github.com/Kulkarni-ui](https://github.com/Kulkarni-ui)
 
 ---
