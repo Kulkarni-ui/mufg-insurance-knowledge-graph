@@ -50,7 +50,7 @@ jupyter notebook MUFG_hackathon.ipynb
 ---
 
 ## 🎥 Demo Video
-- [Watch the Demo Video](https://github.com/<username>/<repo>/blob/main/MUFG%20GRAPH%20RECORDING%20200%20NODES.mp4?raw=true)  
+- [Watch the Demo Video](https://drive.google.com/file/d/1LgUBeCdnRCZAoVZzL3m02vk7FoZLDrkN/view?usp=drive_link) 
 
 <video src="https://github.com/<username>/<repo>/blob/main/MUFG%20GRAPH%20RECORDING%20200%20NODES.mp4?raw=true" controls></video>
 
